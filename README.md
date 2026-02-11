@@ -9,7 +9,7 @@
 
 
 <!-- coding boy -->
-<img width="40%" align="right" alt="Coding Boy" src="https://github.com/sanajitjana/sanajitjana/blob/master/coding.gif?raw=true" />
+<img width="40%" align="right" alt="Coding Boy" src="https://github.com/sarthak2077/sarthak2077/blob/main/coding-boy.gif?raw=true" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
