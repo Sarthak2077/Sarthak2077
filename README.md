@@ -7,7 +7,7 @@
 📁 I share my analytics projects here
 - 📫 How to reach me **yadavsarthak651@gmail.com**
 
-
+"I believe in mastering the process before chasing excellence."
 <!-- coding boy -->
 <img width="40%" align="right" alt="Coding Boy" src="https://github.com/sarthak2077/sarthak2077/blob/main/coding-boy.gif?raw=true" />
 
