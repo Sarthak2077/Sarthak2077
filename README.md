@@ -3,7 +3,7 @@
 
 ## 
 🎓 BBA Business Analytics IBM Student  
-📊 Aspiring Data Engineer 
+📊 Aspiring Data Engineer   
 📁 I share my analytics projects here
 - 📫 How to reach me **yadavsarthak651@gmail.com**
 
