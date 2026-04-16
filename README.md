@@ -15,7 +15,7 @@
 <table border="0">
   <tr>
     <td>
-      <a href="www.linkedin.com/in/sarthak-yadav-0b7423329" target="blank">
+      <a href="https://www.linkedin.com/in/sarthak-yadav-0b7423329" target="blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
       </a>
     </td>
