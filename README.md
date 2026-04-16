@@ -20,7 +20,7 @@
       </a>
     </td>
     <td>
-      <a href="https://fb.com/sarthak-yadav" target="blank">
+      <a href="https://www.facebook.com/profile.php?id=100085106094702" target="blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
       </a>
     </td>
