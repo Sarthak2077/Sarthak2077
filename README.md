@@ -53,3 +53,13 @@
     <td><a href="https://www.ibm.com/products/spss-statistics" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/ibm.svg" alt="ibm" width="50" height="50"/></a></td>
   </tr>
 </table>
+
+
+
+
+
+![Sarthak's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarthak2077&show_icons=true&theme=tokyonight&hide=issues,prs&hide_rank=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sarthak2077&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak2077&layout=compact&theme=tokyonight)
