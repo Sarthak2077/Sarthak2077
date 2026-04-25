@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sarthak Yadav</h1>
-<h3 align="center">A passionate Data Analyst from Lucknow, India</h3>
+<h3 align="center">A passionate Data Engineer from Lucknow, India</h3>
 
 ## 
 🎓 BBA Business Analytics IBM Student  
-📊 Aspiring Data Engineer   
+📊 Future Aspiring MBAian  
 📁 I share my analytics projects here
 - 📫 How to reach me **yadavsarthak651@gmail.com**
 
