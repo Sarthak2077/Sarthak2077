@@ -2,8 +2,8 @@
 <h3 align="center">A passionate Data Engineer from Lucknow, India <img src="https://flagcdn.com/w20/in.png" width="20"/></h3>
 
 ## 
-🎓 BBA Business Analytics IBM Student  
-📊 Future Aspiring MBAian  
+🎓 BBA IBM Student  
+📊 Future Aspiring IIM MBAian  
 📁 I share my analytics projects here
 - 📫 How to reach me **yadavsarthak651@gmail.com**
 
