@@ -3,7 +3,7 @@
 
 ## 
 🎓 BBA IBM Student  
-📊 Business Analyst  
+📊 Future IIM MBAian  
 📁 I share my analytics projects here
 - 📫 How to reach me **yadavsarthak651@gmail.com**
 
