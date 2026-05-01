@@ -57,8 +57,8 @@
 
 
 
-![Sarthak's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sarthak2077&show_icons=true&theme=tokyonight)
+![Sarthak's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sarthak2077&show_icons=true&theme=tokyonight&hide=issues,prs)
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sarthak2077&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=sarthak2077&theme=tokyonight)
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarthak2077&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak2077&layout=compact&theme=tokyonight)
