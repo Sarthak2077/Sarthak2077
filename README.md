@@ -59,6 +59,6 @@
 
 ![Sarthak's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sarthak2077&show_icons=true&theme=tokyonight&hide=issues,prs&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sarthak2077&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sarthak2077&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sarthak2077&layout=compact&theme=tokyonight)
